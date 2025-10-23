@@ -1,0 +1,354 @@
+{
+    "channels": [
+        {
+            "id": "UCmLGJ3VYBcfRaWbP6JLJcpA",
+            "created_date": "2017-01-27T06:50:30Z",
+            "title": "Seattle Data Guy",
+            "description": "Welcome to my channel. I make videos on data science, data engineering and consulting. Follow me on: Linkedin: ...",
+            "publishTime": "2017-01-27T06:50:30Z"
+        },
+        {
+            "id": "UCkWbqlDAyJh2n8DN5X6NZyg",
+            "created_date": "2017-11-12T02:23:40Z",
+            "title": "Data Is Beautiful",
+            "description": "This channel is my passion project taking us on a fun trip down memory lane together so we can relive the colorful events we all ...",
+            "publishTime": "2017-11-12T02:23:40Z"
+        },
+        {
+            "id": "UCEBpSZhI1X8WaP-kY_2LLcg",
+            "created_date": "2017-08-07T15:17:05Z",
+            "title": "365 Data Science",
+            "description": "At 365 Data Science we make #DataScience accessible to all by providing the highest quality online data science education.",
+            "publishTime": "2017-08-07T15:17:05Z"
+        },
+        {
+            "id": "UCBOs6624oqScw8PaU-Jzw9A",
+            "created_date": "2013-02-07T03:16:54Z",
+            "title": "Data Tutorials",
+            "description": "Welcome to the Data Tutorials Channel! Dive into the world of Data Analysis and beyond! If you're passionate about Data ...",
+            "publishTime": "2013-02-07T03:16:54Z"
+        },
+        {
+            "id": "UCabkYozJ7EPxvvWtIvJbIDg",
+            "created_date": "2022-07-03T02:17:00Z",
+            "title": "Data Report",
+            "description": "Independent reporter that provides daily virus updates on Covid and other viruses that are a threat to our daily lives. Look for the ...",
+            "publishTime": "2022-07-03T02:17:00Z"
+        },
+        {
+            "id": "UCadVGkh-CrparnJIgmv5Iuw",
+            "created_date": "2023-01-14T05:45:45Z",
+            "title": "Ease With Data",
+            "description": "Learn Data Engineering - Databricks, Spark, Spark Streaming, Data Warehousing etc. all for FREE.",
+            "publishTime": "2023-01-14T05:45:45Z"
+        },
+        {
+            "id": "UCeM4_-YbPPYxnFUZHf9bRoQ",
+            "created_date": "2019-10-19T15:36:02Z",
+            "title": "DATA",
+            "description": "2\u03bf \u03ba\u03b1\u03bd\u03ac\u03bb\u03b9 \u03c4\u03bf\u03c5 \u039d.\u039f.\u0395 \u03bc\u03b5 \u03b1\u03c6\u03c5\u03c0\u03bd\u03b7\u03c3\u03c4\u03b9\u03ba\u03cc \u03c0\u03b5\u03c1\u03b9\u03b5\u03c7\u03cc\u03bc\u03b5\u03bd\u03bf \"\u0395\u03bb\u03b5\u03cd\u03b8\u03b5\u03c1\u03c9\u03bd\" \u039f\u03bc\u03b9\u03bb\u03b9\u03ce\u03bd \u0398\u03b5\u03c4\u03b9\u03ba\u03ae\u03c2 \u03a0\u03b1\u03c1\u03b1\u03ba\u03af\u03bd\u03b7\u03c3\u03b7\u03c2 & \u0391\u03bb\u03bb\u03b1\u03b3\u03ae\u03c2,\u03a3\u03c5\u03bd\u03b5\u03b9\u03b4\u03b7\u03c4\u03bf\u03c0\u03bf\u03b9\u03b7\u03bc\u03ad\u03bd\u03b7\u03c2 ...",
+            "publishTime": "2019-10-19T15:36:02Z"
+        },
+        {
+            "id": "UCrY1Ro4UXwMib9Qug3eJNWA",
+            "created_date": "2019-02-05T01:47:46Z",
+            "title": "Kahan Data Solutions",
+            "description": "Helping small data teams build reliable, modern data architectures. Download The Modern Data Architecture Checklist (Free) ...",
+            "publishTime": "2019-02-05T01:47:46Z"
+        },
+        {
+            "id": "UCAq9f7jFEA7Mtl3qOZy2h1A",
+            "created_date": "2013-01-25T09:42:47Z",
+            "title": "Data with Zach",
+            "description": "Learn data engineering from the best! I worked for two years at Facebook as a data engineer in 2016-2018. I worked for two years ...",
+            "publishTime": "2013-01-25T09:42:47Z"
+        },
+        {
+            "id": "UCwIsRM8qBXobpAnzVJ0c4IQ",
+            "created_date": "2020-08-21T16:46:21Z",
+            "title": "Data Trader",
+            "description": "This channel teaches you how to become a profitable trader from start to finish.",
+            "publishTime": "2020-08-21T16:46:21Z"
+        },
+        {
+            "id": "UCnwDPELDPXKQ_VrgPsPPdyA",
+            "created_date": "2017-11-16T02:53:14Z",
+            "title": "Data Ma",
+            "description": "\u5546\u52d9\u5408\u4f5c, \u8acb\u806f\u7e6b\uff1aqaz168814\uff08\u8acb\u5099\u8a3b\u516c\u53f8\u548c\u8aee\u8a62\u5167\u5bb9\uff09 \u4e00\u767e\u500b\u4eba\u6709\u4e00\u767e\u7a2e\u65c5\u884c\u98a8\u683c\uff0c\u800c\u53c8\u4e92\u76f8\u5c0a\u91cd\u3002 \u9019\u6b63\u662f\u65c5\u884c\u7684\u610f\u7fa9\uff0c\u4e00\u7a2e ...",
+            "publishTime": "2017-11-16T02:53:14Z"
+        },
+        {
+            "id": "UCnblkfNg9uYsToP2hLXSjWA",
+            "created_date": "2021-03-26T23:43:04Z",
+            "title": "Data From Scratch - Willis",
+            "description": "Bienvenue sur ma chaine ! je m'appelle Willis, mais tu peux m'appeler Will. Je parle de Data Engineering \ud83d\udee0\ufe0f, Data Science et ...",
+            "publishTime": "2021-03-26T23:43:04Z"
+        },
+        {
+            "id": "UCClTa_jbo8yksWrtJJBejVw",
+            "created_date": "2022-12-02T03:05:10Z",
+            "title": "Maz H\u1ecdc Data",
+            "description": "M\u00ecnh chia s\u1ebb v\u1ec1 ngh\u1ec1 Data, ph\u00e1t tri\u1ec3n b\u1ea3n th\u00e2n \u0111\u1ec3 tr\u1edf th\u00e0nh m\u1ed9t \u1ee9ng vi\u00ean xu\u1ea5t s\u1eafc d\u01b0\u1edbi g\u00f3c nh\u00ecn & tr\u1ea3i nghi\u1ec7m t\u1eeb m\u1ed9t ng\u01b0\u1eddi 7 ...",
+            "publishTime": "2022-12-02T03:05:10Z"
+        },
+        {
+            "id": "UCwvE6wbQSHhI2TMW7d-YMaw",
+            "created_date": "2013-07-21T07:05:33Z",
+            "title": "Data - Topic",
+            "description": "",
+            "publishTime": "2013-07-21T07:05:33Z"
+        },
+        {
+            "id": "UCOC0gA_Bv6JjHfGqb4gKLVw",
+            "created_date": "2015-09-18T08:37:33Z",
+            "title": "Data Rebel - Topic",
+            "description": "",
+            "publishTime": "2015-09-18T08:37:33Z"
+        },
+        {
+            "id": "UC2jeggmmxODcDGswn9cSaOg",
+            "created_date": "2022-06-23T18:15:38Z",
+            "title": "Data - Topic",
+            "description": "",
+            "publishTime": "2022-06-23T18:15:38Z"
+        },
+        {
+            "id": "UCB-gxYYjPbN_ns0DIyrQSFw",
+            "created_date": "2017-07-10T09:06:18Z",
+            "title": "COMPUTER DATA - Topic",
+            "description": "",
+            "publishTime": "2017-07-10T09:06:18Z"
+        },
+        {
+            "id": "UCT-lzgOtHWsc0y_Y4V_BWlw",
+            "created_date": "2022-10-27T14:20:54Z",
+            "title": "\u062f\u0627\u062a\u0627 \u0633\u0627\u064a\u0646\u0633 \u0628\u0627\u0644\u0639\u0631\u0628\u064a .. Data Science ",
+            "description": "\u0642\u0646\u0627\u0629 \u0627\u0644\u0645\u0628\u062a\u062f\u0626\u064a\u0646 \u0641\u0649 \u0645\u062c\u0627\u0644 \u0639\u0644\u0648\u0645 \u0627\u0644\u0628\u064a\u0627\u0646\u0627\u062a \u0648\u062a\u062d\u0644\u064a\u0644 \u0627\u0644\u0628\u064a\u0627\u0646\u0627\u062a .. \u0627\u0644\u0647\u062f\u0641 \u0645\u0646\u0647\u0627 \u0647\u0648 \u062a\u0628\u0633\u064a\u0637 \u0627\u0644\u0645\u062c\u0627\u0644 \u0628\u0623\u0641\u0636\u0644 \u0635\u0648\u0631\u0629 \u0645\u0645\u0643\u0646\u0629 \u0644\u0643\u0644 \u0634\u062e\u0635 \u0645\u0647\u062a\u0645 \u0628\u0627\u0644\u0645\u062c\u0627\u0644 ...",
+            "publishTime": "2022-10-27T14:20:54Z"
+        },
+        {
+            "id": "UCivMVjw4tSrxUPGgman_BuQ",
+            "created_date": "2013-07-04T02:15:02Z",
+            "title": "DatA - Topic",
+            "description": "",
+            "publishTime": "2013-07-04T02:15:02Z"
+        },
+        {
+            "id": "UCLAy-O5_ZhMDT8DFtQeK8Ow",
+            "created_date": "2016-10-15T15:30:26Z",
+            "title": "Data Urgente",
+            "description": "Canal de contenidos period\u00edsticos del corresponsal Sebasti\u00e1n Salgado. @SebaSalgadoOk.",
+            "publishTime": "2016-10-15T15:30:26Z"
+        },
+        {
+            "id": "UCL3cnz-UOgkfcLAu8_ToyOA",
+            "created_date": "2011-09-17T20:26:31Z",
+            "title": "Data R",
+            "description": "Tips de conducci\u00f3n, ayudas, accidentes, situaciones en la calle y mi vida personal grabada desde una c\u00e1mara. En el 2010 tuve ...",
+            "publishTime": "2011-09-17T20:26:31Z"
+        },
+        {
+            "id": "UCayOBnqqKOWNL_8Lzexz6ug",
+            "created_date": "2019-02-06T03:12:53Z",
+            "title": "Peace Data - Topic",
+            "description": "",
+            "publishTime": "2019-02-06T03:12:53Z"
+        },
+        {
+            "id": "UCiXv-PULR-JvubKQt7NUIng",
+            "created_date": "2017-03-21T09:04:41Z",
+            "title": "D.A.T.A - Topic",
+            "description": "Juanda Sipahutar, better known as D.A.T.A, is a producer and DJ from Indonesia, who grew up in Medan, North Sumatra.",
+            "publishTime": "2017-03-21T09:04:41Z"
+        },
+        {
+            "id": "UC6uU7JDDPMxJjjeF8oKFoBQ",
+            "created_date": "2016-02-02T11:32:48Z",
+            "title": "GHOST DATA - Topic",
+            "description": "",
+            "publishTime": "2016-02-02T11:32:48Z"
+        },
+        {
+            "id": "UCQ_Q3leCyf3p8uNdUKq52uA",
+            "created_date": "2018-08-16T23:40:18Z",
+            "title": "Peace Data - Topic",
+            "description": "",
+            "publishTime": "2018-08-16T23:40:18Z"
+        },
+        {
+            "id": "UC_uYmrzPI39I1eFWEvJZ3dg",
+            "created_date": "2025-07-09T08:18:37Z",
+            "title": "data mobile gaming",
+            "description": "\u10db\u10d4\u10e2\u10d8 \u10d5\u10d8\u10d3\u10e0\u10d4 mobile gaming.",
+            "publishTime": "2025-07-09T08:18:37Z"
+        },
+        {
+            "id": "UC8wgOFJJLuw41oXXhXY4Rlg",
+            "created_date": "2021-07-29T08:20:56Z",
+            "title": "Bob Data - Topic",
+            "description": "",
+            "publishTime": "2021-07-29T08:20:56Z"
+        },
+        {
+            "id": "UCSYiZYcIRsDGJMd3eLJ4T1g",
+            "created_date": "2014-01-16T19:02:52Z",
+            "title": "Big Data - Topic",
+            "description": "BIG DATA is the paranoid pop brainchild of artist/producer, Alan Wilkis. With a healthy dose of distrust, Big Data's music explores ...",
+            "publishTime": "2014-01-16T19:02:52Z"
+        },
+        {
+            "id": "UCRi9Bl0R6NK1IZzLltUPLww",
+            "created_date": "2023-12-31T08:09:11Z",
+            "title": "Data Void - Topic",
+            "description": "",
+            "publishTime": "2023-12-31T08:09:11Z"
+        },
+        {
+            "id": "UCCQ_CKZtt_7ncn4LnLmzy7A",
+            "created_date": "2025-10-19T20:06:03Z",
+            "title": "Expert data \u2013 Math & Data Analytics",
+            "description": "",
+            "publishTime": "2025-10-19T20:06:03Z"
+        },
+        {
+            "id": "UCydV-RCALW9t9qIdSkRPXyg",
+            "created_date": "2013-12-19T04:37:26Z",
+            "title": "End Of Data - Topic",
+            "description": "",
+            "publishTime": "2013-12-19T04:37:26Z"
+        },
+        {
+            "id": "UCYSNQkSy2Co5b0om8QrASOA",
+            "created_date": "2021-05-20T03:24:45Z",
+            "title": "Data Animal - Topic",
+            "description": "",
+            "publishTime": "2021-05-20T03:24:45Z"
+        },
+        {
+            "id": "UCIXUsECOWklLHZBclsPeCEw",
+            "created_date": "2013-12-20T21:41:39Z",
+            "title": "Phunky Data - Topic",
+            "description": "",
+            "publishTime": "2013-12-20T21:41:39Z"
+        },
+        {
+            "id": "UC0jwE1KjjGzhkUi1Ue3y8KA",
+            "created_date": "2025-10-17T22:01:42Z",
+            "title": "Data Dummies",
+            "description": "",
+            "publishTime": "2025-10-17T22:01:42Z"
+        },
+        {
+            "id": "UCPUa9Y7_bWM-7tBin-ZTkEQ",
+            "created_date": "2015-09-18T13:04:20Z",
+            "title": "Data Wave - Topic",
+            "description": "",
+            "publishTime": "2015-09-18T13:04:20Z"
+        },
+        {
+            "id": "UCgMUZ_w4wivJ8cfJ8wk-rGg",
+            "created_date": "2025-10-15T09:31:39Z",
+            "title": "Data Talk",
+            "description": "",
+            "publishTime": "2025-10-15T09:31:39Z"
+        },
+        {
+            "id": "UCWfddQ0eMLxW_7omRvfHVpw",
+            "created_date": "2025-10-20T07:53:39Z",
+            "title": "Data Analytics Team",
+            "description": "",
+            "publishTime": "2025-10-20T07:53:39Z"
+        },
+        {
+            "id": "UCT6mC5UbwGPvEZkuCClT8Vw",
+            "created_date": "2025-10-22T04:42:29Z",
+            "title": "Find Quick Data",
+            "description": "",
+            "publishTime": "2025-10-22T04:42:29Z"
+        },
+        {
+            "id": "UC5NyMX_7AmOxHC_pWSxXmFw",
+            "created_date": "2025-10-03T09:56:07Z",
+            "title": "Drill.it - data recovery",
+            "description": "",
+            "publishTime": "2025-10-03T09:56:07Z"
+        },
+        {
+            "id": "UCnals30n_PqtEPMJ-ZAa66g",
+            "created_date": "2020-01-09T10:28:21Z",
+            "title": "ghoul.data - Topic",
+            "description": "",
+            "publishTime": "2020-01-09T10:28:21Z"
+        },
+        {
+            "id": "UCTzMtR2sxHiPdcT9a1AZ_pw",
+            "created_date": "2025-10-08T11:12:44Z",
+            "title": "Tech data",
+            "description": "",
+            "publishTime": "2025-10-08T11:12:44Z"
+        },
+        {
+            "id": "UCrRPDfDA5Xw5pviswGWxmJw",
+            "created_date": "2025-10-20T18:15:36Z",
+            "title": "Data Driven Plan",
+            "description": "",
+            "publishTime": "2025-10-20T18:15:36Z"
+        },
+        {
+            "id": "UCs6FoQCWUX4mE9T3yZ6CJiw",
+            "created_date": "2025-08-19T03:49:39Z",
+            "title": "Don-Data - Topic",
+            "description": "",
+            "publishTime": "2025-08-19T03:49:39Z"
+        },
+        {
+            "id": "UCxO4WW9XKksDU9SxO4G5Riw",
+            "created_date": "2025-10-23T03:50:10Z",
+            "title": "Baca Data",
+            "description": "Membaca Data, Menyampaikan Fakta.",
+            "publishTime": "2025-10-23T03:50:10Z"
+        },
+        {
+            "id": "UCT-o-teKHpKUau9bIMbl9HA",
+            "created_date": "2023-01-09T20:04:57Z",
+            "title": "Data Asylum - Topic",
+            "description": "",
+            "publishTime": "2023-01-09T20:04:57Z"
+        },
+        {
+            "id": "UCzc0ergFsLyN1IfBwLWppyQ",
+            "created_date": "2025-09-29T07:00:38Z",
+            "title": "Find Quick Data",
+            "description": "",
+            "publishTime": "2025-09-29T07:00:38Z"
+        },
+        {
+            "id": "UCCkn3DwPRUq_bZl7rhin7YQ",
+            "created_date": "2025-09-29T10:14:11Z",
+            "title": "Find Quick Data",
+            "description": "",
+            "publishTime": "2025-09-29T10:14:11Z"
+        },
+        {
+            "id": "UC09y-ujyW2i3p-3IzKQuFtw",
+            "created_date": "2024-06-02T01:15:25Z",
+            "title": "Data - Topic",
+            "description": "Soy DATA CEO del mundo DATA2027.",
+            "publishTime": "2024-06-02T01:15:25Z"
+        },
+        {
+            "id": "UCGwR_0qgypv7hM0yYxQaEDA",
+            "created_date": "2025-10-22T09:22:59Z",
+            "title": "Toya data Toya data",
+            "description": "",
+            "publishTime": "2025-10-22T09:22:59Z"
+        },
+        {
+            "id": "UCJWzTaaZESBVy7djMsW6VCA",
+            "created_date": "2025-10-18T09:47:20Z",
+            "title": "GLOBAL DATA COMPARISON",
+            "description": "Welcome to Global Data Comparison, where we settle the debates, analyze the facts, and break down the figures for literally ...",
+            "publishTime": "2025-10-18T09:47:20Z"
+        }
+    ]
+}
